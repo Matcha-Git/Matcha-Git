@@ -2,6 +2,10 @@
 
 ###
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matcha-Git)
+
+###
+
 <img align="right" height="150" src="https://media.tenor.com/mCe5fkVsChUAAAAM/frog-minecraft.gif"  />
 
 ###
