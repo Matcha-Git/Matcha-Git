@@ -4,7 +4,7 @@
 
 <div style="display: flex; justify-content: space-between; gap: 20px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Matcha-Git&show_icons=true&hide_title=true&hide_rank=true&count_private=true&theme=dracula&show_icons=true&include_all_commits=true&hide=prs" alt="Matcha-Git's GitHub Stats" style="flex: 1; max-width: 49%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matcha-Git&show_icons=true&hide_title=false&hide_rank=false&count_private=true&theme=dracula&show_icons=true&include_all_commits=true&hide=prs" alt="Matcha-Git's GitHub Stats" style="flex: 1; max-width: 49%;">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matcha-Git&layout=compact&theme=dracula&langs_count=6" alt="Matcha-Git's Top Languages" style="flex: 1; max-width: 49%;">
 
