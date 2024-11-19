@@ -2,7 +2,9 @@
 
 ###
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matcha-Git)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matcha-Git&show_icons=true&hide_title=true&hide_rank=true&count_private=true&theme=dracula&show_icons=true&include_all_commits=true&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matcha-Git&layout=compact&theme=dracula&langs_count=6)
+
 
 ###
 
@@ -27,9 +29,5 @@
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
 </div>
-
-###
-
-![Snake animation](https://github.com/your-username/github-readme-stats/blob/master/src/snake.svg)
 
 ###
