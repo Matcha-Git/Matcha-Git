@@ -2,7 +2,7 @@
 
 ###
 
-<div style="display: flex; justify-content: space-between; gap: 20px; align-items: stretch;">
+<div style="display: flex; justify-content: space-around; gap: 20px; align-items: stretch;">
 
   <!-- Stats Container -->
   <div style="flex: 1; max-width: 49%; display: flex; flex-direction: column; height: 340px;">
