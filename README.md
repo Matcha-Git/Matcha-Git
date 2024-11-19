@@ -30,6 +30,6 @@
 
 ###
 
-![Snake animation](https://github.com/Matcha-Git/github-readme-stats/blob/master/src/snake.svg)
+![Snake animation](https://github.com/your-username/github-readme-stats/blob/master/src/snake.svg)
 
 ###
