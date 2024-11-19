@@ -29,3 +29,7 @@
 </div>
 
 ###
+
+![Snake animation](https://github.com/Matcha-Git/github-readme-stats/blob/master/src/snake.svg)
+
+###
