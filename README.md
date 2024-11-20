@@ -1,14 +1,10 @@
 <h2 align="center">Hi 👋! I'm Matcha-Git</h2>
 
 ###
-  <!-- Stats Container -->
-<div style="display: flex; justify-content: space-between; gap: 20px; align-items: left;"">
-    <img src="https://github-readme-stats.vercel.app/api?username=Matcha-Git&show_icons=true&hide_title=false&hide_rank=false&count_private=true&theme=dracula&show_icons=true&include_all_commits=true&hide=prs" alt="Matcha-Git's GitHub Stats" style="flex-grow: 1; width: 50%; object-fit: cover;">
-</div>
 
-  <!-- Languages Container -->
-<div style="display: flex; justify-content: space-between; gap: 20px; align-items: right;"">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matcha-Git&layout=compact&theme=dracula&langs_count=6" alt="Matcha-Git's Top Languages" style="flex-grow: 2; width: 50%; object-fit: cover;">
+<div align="center" style="display: flex; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Matcha-Git&show_icons=true&hide_title=false&hide_rank=false&count_private=true&theme=dracula&show_icons=true&include_all_commits=true&hide=prs" alt="Matcha-Git's GitHub Stats" style="flex-grow: 1; width: 50%; object-fit: cover;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matcha-Git&layout=compact&theme=dracula&langs_count=6" alt="Matcha-Git's Top Languages" style="flex-grow: 1; width: 50%; object-fit: cover;">  
 </div>
 
 ###
