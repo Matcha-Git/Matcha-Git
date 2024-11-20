@@ -2,7 +2,7 @@
 
 ###
 
-<div align="midle" style="display: flex; gap: 10px;">
+<div align="left" style="display: flex; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Matcha-Git&show_icons=true&hide_title=false&hide_rank=false&count_private=true&theme=dracula&show_icons=true&include_all_commits=true&hide=prs" alt="Matcha-Git's GitHub Stats" style="flex-grow: 1; width: 50%; object-fit: cover;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matcha-Git&layout=compact&theme=dracula&langs_count=6" alt="Matcha-Git's Top Languages" style="flex-grow: 1; width: 50%; object-fit: cover;>  
 </div>
