@@ -8,7 +8,7 @@
 
   <!-- Languages Container -->
 <div style="display: flex; justify-content: space-between; gap: 20px; align-items: right;"">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matcha-Git&layout=compact&theme=dracula&langs_count=6" alt="Matcha-Git's Top Languages" style="flex-grow: 1; width: 50%; object-fit: cover;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matcha-Git&layout=compact&theme=dracula&langs_count=6" alt="Matcha-Git's Top Languages" style="flex-grow: 2; width: 50%; object-fit: cover;">
 </div>
 
 ###
