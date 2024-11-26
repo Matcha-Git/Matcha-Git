@@ -3,7 +3,7 @@
 ###
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center; align-items: center; justify-content: space-around;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Matcha-Git&show_icons=true&hide_title=false&hide_rank=false&count_private=true&theme=dracula&show_icons=true&include_all_commits=true&hide=prs" 
+    <img src="https://github-readme-stats.vercel.app/api?username=Matcha-Git&show_icons=true&hide_title=false&hide_rank=true&count_private=true&theme=dracula&show_icons=true&include_all_commits=true&hide=prs" 
          alt="Matcha-Git's GitHub Stats" 
          style="flex-grow: 1; max-width: 45%; object-fit: cover;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matcha-Git&layout=compact&theme=dracula&langs_count=6" 
