@@ -8,7 +8,7 @@
          style="flex: 1; max-width: 45%; object-fit: contain;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matcha-Git&layout=compact&theme=dracula&langs_count=6" 
          alt="Matcha-Git's Top Languages" 
-         style="flex: 1; max-width: 45%; object-fit: contain;">  
+         style="flex: 1; max-width: 45%;hight: 100px; object-fit: contain;">  
 </div>
 
 ###
